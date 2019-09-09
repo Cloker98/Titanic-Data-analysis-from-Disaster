@@ -1,5 +1,5 @@
 # Titanic-Data-analysis-from-Disaster
-Fundamentos de Data Science I Nanodegree Projeto - Data Analysis -Titanic Survival Challenge on Kaggle 
+Projeto - Data Analysis -Titanic Survival Challenge on Kaggle 
 
 Este estudo visa analisar dados de um dataset contendo informações acerca de alguns dos passageiros a bordo do transatlântico. Dentre os questionamentos, respondi as seguintes perguntas nesse projeto:
 - Qual a idade média das pessoas que obtiveram sucesso em sobreviver ao acidente? Essa pergunta será útil para identificar a faixa etária média das pessoas que sobreviveram ao acidente.
